@@ -39,4 +39,4 @@
 
 ### 画面遷移図
 
-https://www.figma.com/file/x9wbg5lyuiP1O9jhWsGI4l/Untitled?node-id=0%3A1
+https://www.figma.com/file/x9wbg5lyuiP1O9jhWsGI4l/Untitled
