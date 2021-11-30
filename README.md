@@ -43,7 +43,7 @@ https://www.figma.com/file/x9wbg5lyuiP1O9jhWsGI4l/Untitled
 
 ### ER図
 
-[![Image from Gyazo](https://i.gyazo.com/2fc821c3e7b4c5c8f8e83baa28dc490f.png)](https://gyazo.com/2fc821c3e7b4c5c8f8e83baa28dc490f)
+[![Image from Gyazo](https://i.gyazo.com/c00260c213e946e5d5b5961c560d612a.png)](https://gyazo.com/c00260c213e946e5d5b5961c560d612a)
 
 ### Usersテーブル
 
