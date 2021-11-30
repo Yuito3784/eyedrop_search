@@ -40,3 +40,35 @@
 ### 画面遷移図
 
 https://www.figma.com/file/x9wbg5lyuiP1O9jhWsGI4l/Untitled
+
+### ER図
+
+[![Image from Gyazo](https://i.gyazo.com/2fc821c3e7b4c5c8f8e83baa28dc490f.png)](https://gyazo.com/2fc821c3e7b4c5c8f8e83baa28dc490f)
+
+### Usersテーブル
+
+user情報を保存するテーブルです
+- age
+  年齢
+- sex
+  性別
+- screentime
+  1日にパソコンやスマホを見る時間
+- contact
+  コンタクトの有無
+- symptom
+  目の症状
+- point
+  目薬購入の際に重視するポイント
+
+### Eyedropsテーブル
+
+目薬情報を保存するテーブルです
+- name
+  商品名
+- effect
+  目の症状に対する効能
+- having
+  目薬の持っているポイント(成分、パッケージ、清涼感等)
+- url
+  商品ページ
