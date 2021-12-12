@@ -45,3 +45,30 @@ https://www.figma.com/file/x9wbg5lyuiP1O9jhWsGI4l/Untitled
 
 [![Image from Gyazo](https://i.gyazo.com/c00260c213e946e5d5b5961c560d612a.png)](https://gyazo.com/c00260c213e946e5d5b5961c560d612a)
 
+### Usersテーブル
+
+user情報を保存するテーブルです
+- age
+  年齢
+- sex
+  性別
+- screentime
+  1日にパソコンやスマホを見る時間
+- contact
+  コンタクトの有無
+- symptom
+  目の症状
+- point
+  目薬購入の際に重視するポイント
+
+### Eyedropsテーブル
+
+目薬情報を保存するテーブルです
+- name
+  商品名
+- effect
+  目の症状に対する効能
+- having
+  目薬の持っているポイント(成分、パッケージ、清涼感等)
+- url
+  商品ページ
